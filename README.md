@@ -6,4 +6,5 @@
 ## Proje türü:
 >Bir Bot projesi
 
-### h
+## Kullandığım kütüphaneler :
+>Tweepy

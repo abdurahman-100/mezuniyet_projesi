@@ -42,3 +42,11 @@
 >İzleyiciye göstermek: “AI + otomasyon = toplumsal fayda”
 
 >Hedeflenen sonuç: Daha fazla kişinin iklim değişikliği hakkında düşünmesi ve harekete geçmesi
+
+
+
+
+
+## referans alınan yerler 
+
+https://github.com/lewispour/Twitter-auto-Post-Bot---X.com---Tweepy-python-bot

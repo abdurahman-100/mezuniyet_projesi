@@ -1,4 +1,5 @@
 #Mezuniyet Projesi
+
 ##Projemin Fikri
 
 >Bu proje, yapay zekâdan iklim değişikliği hakkında metinler alıp, bunları otomatik olarak Twitter’a (X) gönderen bir bot geliştirmeyi amaçlamaktadır.
